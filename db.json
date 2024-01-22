@@ -1,0 +1,14 @@
+{
+  "login": [
+    {
+      "userId": "supervisor",
+      "password": "supervisor",
+      "rol": "supervisor"
+    },
+    {
+      "userId": "ejecutivo",
+      "password": "ejecutivo",
+      "rol": "ejecutivo"
+    }
+  ]
+}
