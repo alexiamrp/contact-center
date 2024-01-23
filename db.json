@@ -1,13 +1,13 @@
 {
   "login": [
     {
-      "id": "1",
+      "id": "supervisor",
       "userId": "supervisor",
       "password": "supervisor",
       "rol": "supervisor"
     },
     {
-      "id": "2",
+      "id": "ejecutivo",
       "userId": "ejecutivo",
       "password": "ejecutivo",
       "rol": "ejecutivo"
