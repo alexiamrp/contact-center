@@ -1,15 +1,15 @@
 {
   "login": [
     {
-      "id": "supervisor",
-      "name": "Supervisor",
-      "password": "supervisor",
+      "id": "isai",
+      "name": "Isaí Victoriano Ortega",
+      "password": "12345678",
       "rol": "supervisor"
     },
     {
-      "id": "ejecutivo",
-      "name": "Ejecutivo",
-      "password": "ejecutivo",
+      "id": "alexia",
+      "name": "Alexia Monserrat Rodríguez Peña",
+      "password": "87654321",
       "rol": "ejecutivo"
     }
   ]
